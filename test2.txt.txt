@@ -5,5 +5,3 @@ favourite drinks:
 - water
 - beer
 - smoothie
-
-Space for the 3rd test
