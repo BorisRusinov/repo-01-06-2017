@@ -1,0 +1,7 @@
+This is 2st test part
+
+Made some randome changes like this:
+favourite drinks:
+- water
+- beer
+- smoothie
